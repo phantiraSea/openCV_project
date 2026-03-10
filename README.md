@@ -1,4 +1,5 @@
 # Building an Interactive Distance Measurement Tool in Python with OpenCV and Homography
+[Read more information](https://medium.com/@pkusolruangchai/building-an-interactive-distance-measurement-tool-in-python-with-opencv-and-homography-fb8719811c11)
 
 **Workflow of the tool**
 The interaction has two stages.
